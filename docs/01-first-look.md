@@ -41,9 +41,9 @@
 ## 5 spurningar sem við viljum rannsaka
 
     1. Eru leikirnar með það sama game_id líkir?
-    2. 
-    3.
-    4.
+    2. Hvaða game_id kemur fram oftast?
+    3. Hvað meðalrating af öllum genres?
+    4. 
     5.
 
 ## 3 atriði sem komu okkur á óvart
