@@ -28,25 +28,25 @@
 
     Hugmynd 1
 
-Gagnleg fyrir notanda
-Nýtir gögnin vel
-Áhugaverð
-Raunhæf
-Svigrúm til að þróa áfram
+Gagnleg fyrir notanda:
+Nýtir gögnin vel:
+Áhugaverð:
+Raunhæf:
+Svigrúm til að þróa áfram:
 
 
     Hugmynd 2
 
-Gagnleg fyrir notanda
-Nýtir gögnin vel
-Áhugaverð
-Raunhæf
-Svigrúm til að þróa áfram
+Gagnleg fyrir notanda:
+Nýtir gögnin vel:
+Áhugaverð:
+Raunhæf:
+Svigrúm til að þróa áfram:
 
     Hugmynd 3
 
-Gagnleg fyrir notanda
-Nýtir gögnin vel
-Áhugaverð
-Raunhæf
-Svigrúm til að þróa áfram
+Gagnleg fyrir notanda:
+Nýtir gögnin vel:
+Áhugaverð:
+Raunhæf:
+Svigrúm til að þróa áfram:
