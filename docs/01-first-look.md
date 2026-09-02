@@ -51,3 +51,55 @@
     1. 887 duplicate game_id
     2. 513 unknown developers
     3. Sega er með mest leikir = 786 leikir. 251 meiri en Konami sem er næst mest.
+
+
+
+
+## 5 atriði í gögnunum sem gætu skapað möguleika fyrir vefkerfi
+
+    PC Builder / Vélbúnaðarreiknir: Ákvarðar hvers konar tölva eða vélbúnaður vantar til að geta spilað eða hermt leikina sem þú vilt spila.
+
+    Wikipedia / Lýsingar fyrir leikjunum: Upplýsingabankamót með sögu leikjanna, myndum, skjáskotum og lýsingum.
+
+    Leikjasafn: Miðlægt svæði til að fletta í gegnum og sía allt leikjasafnið eftir flokkum, útgáfuárum og tölvukynslóðum.
+
+    Leitarkerfi fyrir fjölspilun og samkvæmisleiki: Sía sem finnur leiki sérstaklega út frá fjölda spilara (t.d. fyrir 2-4 spilara á sama skjá).
+
+    Tilmælavél / Ráðleggingarkerfi: Ráðleggur notendum svipaða eða falda gæðaleiki út frá uppáhaldsleikjum þeirra, einkunnum og flokkum.
+
+
+## Mögulega notendur
+
+    Retro-aðdáendur og safnarar: Nota Leikjasafnið og Wikipedia-lýsingarnar til að kanna sögu leikjanna, fletta upp upplýsingum og skoða kápumyndir.
+
+    Tæknisinnar og herma-notendur: Nota PC Builder / Vélbúnaðarreikninn til að finna réttan vélbúnað og herma fyrir ákveðnar leikjatölvur.
+
+    Vinahópar (Spilakvöld): Nota Fjölspilunarleitarvélina til að finna leiki sem styðja 2–4 spilara á sama skjá.
+
+    Leikjanámsfúsir spilarar: Nota Tilmælavélina til að finna falda gæðaleiki út frá einkunnum og uppáhaldsflokkum.
+
+    Aðdáendur leikjaframleiðenda og sögunörðar: Nota kerfið til að skoða sögu og tölfræði ákveðinna útgefenda og þróunaraðila (t.d. SEGA eða Konami) í gegnum áratugina.
+
+
+## Hugmynd 1 - gagnleg fyrir ákveðinn notanda
+
+    Hugmynd 1 á að leysa skýrt vandamál fyrir ákveðinn notanda
+
+    Hver notar kerfið?
+    Hvaða vandamál leysir það?
+    Hvaða raunverulegu gögn úr gagnasafninu notar það?
+    Hvað gerir notandinn skref fyrir skref?
+    Hvað gæti verið erfitt?
+
+## Hugmynd 2 - skapandi eða óvenjuleg
+
+    Hugmynd 2 á að nota gögnin á áhugaverðan hátt. Hún má vera djarfari en hugmynd 1.
+
+
+
+## Hugmynd 3 - raunhæf og örugg
+
+    Hugmynd 3 á að vera eitthvað sem hópurinn telur mjög líklegt að hægt sé að klára vel. Hún má vera einfaldari, en
+    þarf samt að vera meira en bara listi og search.
+
+    Hún þarf að hafa skýran notanda og að minnsta kosti eitt raunverulegt notendaflæði.
