@@ -85,16 +85,55 @@
 
     Hugmynd 1 á að leysa skýrt vandamál fyrir ákveðinn notanda
 
-    Hver notar kerfið?
-    Hvaða vandamál leysir það?
-    Hvaða raunverulegu gögn úr gagnasafninu notar það?
-    Hvað gerir notandinn skref fyrir skref?
+    -----------------------------------------------------------------
+
+    Tilmælavél og meðmælakerfi
+
+    Hver notar kerfið? 
+        Leikjaspilarar sem eru búnir að klára leik sem þeim þótti frábær og vilja finna næsta leik til að spila án þess að eyða mörgum klukkustundum í að leita.
+
+    Hvaða vandamál leysir það? 
+        Leysir valkvíða / choice paralysis. Í stað þess að leita í gegnum 13.000+ leiki, fær notandinn persónusniðnar ábendingar byggðar á tölfræðilegum líkindum og einkunnum.
+
+    Hvaða raunverulegu gögn úr gagnasafninu notar það? 
+        Genre, Rating, Developer, Images
+
+    Hvað gerir notandinn skref fyrir skref? 
+        Notandinn slær inn eða velur leik sem hann heldur upp á (t.d. Castlevania: Symphony of the Night).
+        Kerfið greinir einkenni leiksins (flokk, framleiðanda, áratug).
+        Tilmælavélin reiknar út og birtir topp 5 leiki sem líkjast valda leiknum og hafa háa einkunn (rating_score_pct).
+        Notandinn getur smellið á meðmælin til að skoða skjáskot, lýsingu og einkunnir.
+
     Hvað gæti verið erfitt?
+        Að hanna einkunnagjafar- og líkindaalgoritmann þannig að hann mæli með réttum leikjum (t.d. að vega saman genre_detailed og rating_score_pct á réttan hátt).
+
+
 
 ## Hugmynd 2 - skapandi eða óvenjuleg
 
     Hugmynd 2 á að nota gögnin á áhugaverðan hátt. Hún má vera djarfari en hugmynd 1.
 
+    -----------------------------------------------------------------------
+
+    Retro Time Machine & Console Wars
+
+    Hver notar kerfið?
+        Leikjasögunörðar og nostalgíuleitendur sem vilja kanna ólík tímabil tölvuleikjasögunnar eða bera saman samkeppnisaðila á leikjamarkaðnum.
+
+    Hvaða vandamál leysir það?
+        Gerir söguleg tölvuleikjagögn lifandi og sjónræn í stað flatrar leitar. Leysir skort á uppgötvun á óþekktum leikjum með því að breyta leit í gagnvirkt tímaferðalag og slembival.
+
+    Hvaða raunverulegu gögn úr gagnasafninu notar það?
+        Platform Generation, Decade, ROM Size, Developer, 3D Box, Screenshots
+
+    Hvað gerir notandinn skref fyrir skref?
+        Notandinn velur tímabil eða tölvustríð (t.d. 16-bita tímabilið: SEGA Genesis vs. Super Nintendo).
+        Kerfið birtir gagnvirka tímalínu og samanburð á skráarstærðum leikja (rom_size_mb), einkunnum og yfirburðum framleiðenda.
+        Notandinn ýtir á „Time Warp / Slot Machine“ hnappinn til að fá slembivalið (random discovery).
+        Kerfið dregur fram faldan gæðaleik frá því tímabili ásamt 3D boxi (box3d_path), skjáskotum og sögu framleiðanda.
+
+    Hvað gæti verið erfitt?
+        Að hanna myndræna tímalínu og taka saman tölfræðileg gögn á skýran hátt þvert á margar leikjakynslóðir. 
 
 
 ## Hugmynd 3 - raunhæf og örugg
@@ -103,3 +142,25 @@
     þarf samt að vera meira en bara listi og search.
 
     Hún þarf að hafa skýran notanda og að minnsta kosti eitt raunverulegt notendaflæði.
+
+    ---------------------------------------------------------------------
+
+    Gagnvirkt Leikjasafn og Upplýsingabanki
+
+    Hver notar kerfið?
+        Retro-leikjaaðdáendur og safnarar sem vilja skoða stórt safn leikja, rifja upp minningar og skoða upprunalegt myndefni.
+
+    Hvaða vandamál leysir það?
+        Skipuleggur 13.603 leiki á einum stað og gerir þá auðveldlega aðgengilega án þess að notandinn fari villtur í gagnaflóðinu.
+
+    Hvaða raunverulegu gögn úr gagnasafninu notar það?
+        Cover Images, 3D Box, Screenshots, Genre, Platform, Decade, Developer, Rating
+
+    Hvað gerir notandinn skref fyrir skref?
+        Notandinn opnar myndrænt grid-yfirlit og síar samstundis eftir áratug, leikjatölvu eða flokki (t.d. Platformer).
+        Notandinn smellir á leik og opnar ítarlega leikjasíðu með 3D box-myndum, skjáskotum, sögu leiksins og stjörnugjöf.
+        Notandinn smellir á heiti framleiðandans (t.d. SEGA eða Konami) á leikjasíðunni.
+        Kerfið birtir samstundis alla aðra leiki í safninu frá þeim útgefanda.
+
+    Hvað gæti verið erfitt?
+        Að tryggja að stóra myndræna grid-yfirlitið hlaðist hratt og síist mjúklega án seinkunar.
