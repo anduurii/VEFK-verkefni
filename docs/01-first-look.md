@@ -92,7 +92,7 @@
 
     -----------------------------------------------------------------
 
-    Tilmælavél og meðmælakerfi
+    Tilmælavél og meðmælakerfi    /   Recommendation Engine and Recommendation System
 
     Hver notar kerfið? 
         Leikjaspilarar sem eru búnir að klára leik sem þeim þótti frábær og vilja finna næsta leik til að spila án þess að eyða mörgum klukkustundum í að leita.
@@ -150,7 +150,7 @@
 
     ---------------------------------------------------------------------
 
-    Gagnvirkt Leikjasafn og Upplýsingabanki
+    Gagnvirkt Leikjasafn og Upplýsingabanki      /    Interactive Game Collection and Information Hub 
 
     Hver notar kerfið?
         Retro-leikjaaðdáendur og safnarar sem vilja skoða stórt safn leikja, rifja upp minningar og skoða upprunalegt media efni.

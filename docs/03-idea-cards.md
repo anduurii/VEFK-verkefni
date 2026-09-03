@@ -4,7 +4,7 @@
 
 
 
-## Hugmynd 1 - Tilmælavél og meðmælakerfi
+## Hugmynd 1 - Tilmælavél og meðmælakerfi / Recommendation Engine and Recommendation System
 ### Notandi
 Leikjaspilarar sem eru búnir að klára leik sem þeim þótti frábær og vilja finna næsta leik til að spila án þess að eyða mörgum klukkustundum í að leita.
 
@@ -62,7 +62,7 @@ Að hanna myndræna tímalínu og taka saman tölfræðileg gögn á skýran há
 
 
 
-## Hugmynd 3 - Gagnvirkt Leikjasafn og Upplýsingabanki (Örugg & Raunhæf)
+## Hugmynd 3 - Gagnvirkt Leikjasafn og Upplýsingabanki (Örugg & Raunhæf)  / Interactive Game Collection and Information Hub
 ### Notandi
 Retro-leikjaaðdáendur og safnarar sem vilja skoða stórt safn leikja, rifja upp minningar og skoða upprunalegt media efni.
 
