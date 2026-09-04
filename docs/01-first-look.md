@@ -98,7 +98,7 @@
         Leikjaspilarar sem eru búnir að klára leik sem þeim þótti frábær og vilja finna næsta leik til að spila án þess að eyða mörgum klukkustundum í að leita.
 
     Hvaða vandamál leysir það? 
-        Leysir valkvíða / choice paralysis. Í stað þess að leita í gegnum 13.000+ leiki, fær notandinn persónusniðnar ábendingar byggðar á tölfræðilegum líkindum og rating.
+        Leysir valkvíða / choice paralysis. Í stað þess að leita í gegnum 13.000+ leiki, fær notandinn ábendingar byggðar á tölfræðilegum líkindum og rating.
 
     Hvaða raunverulegu gögn úr gagnasafninu notar það? 
         Genre, Rating, Developer, Images

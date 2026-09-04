@@ -9,7 +9,7 @@
 Leikjaspilarar sem eru búnir að klára leik sem þeim þótti frábær og vilja finna næsta leik til að spila án þess að eyða mörgum klukkustundum í að leita.
 
 ### Vandamál
-Leysir valkvíða (choice paralysis). Í stað þess að leita í gegnum 13.000+ leiki fær notandinn persónusniðnar ábendingar byggðar á tölfræðilegum líkindum og einkunnum.
+Leysir valkvíða (choice paralysis). Í stað þess að leita í gegnum 13.000+ leiki fær notandinn ábendingar byggðar á tölfræðilegum líkindum og einkunnum.
 
 ### Gögn sem hugmyndin notar
 genre, rating_score_pct, developer, images (screenshots, cover_image_path)
@@ -83,3 +83,19 @@ cover_image_path, box3d_path, screenshots, genre, platform_name, decade, develop
 
 ### Helstu áhættur
 Að tryggja að stóra myndræna grid-yfirlitið hlaðist hratt og síist mjúklega án seinkunar þegar unnið er með mörg þúsund leiki.
+
+
+
+
+
+
+
+
+## Valin Hugmynd
+
+Við veljum: Hugmynd 1 Tilmælavél og meðmælakerfi 
+
+Ástæða: Okkur fannst báðum þessi hugmynd áhugaverð og mögulega nytsamleg.
+
+Við erum að búa til tilmælavél og meðmælakerfi fyrir notendur sem hjálpar honum að leysa vandmálið í að leita að öðrum leik eftir að klára leik með því að slá inn leikinn sem þau kláruðu og fá tilmæli um leiki sem þeim gætu fundist skemmtilegir.
+
