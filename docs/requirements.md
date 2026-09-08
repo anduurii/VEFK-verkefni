@@ -21,7 +21,7 @@ Notandinn reynir að útskýra leikinn sem hann vill fá meðmæli um sem passar
 ## Functional requirements
 FR-01: Notandinn getur sláið inn nafn á leik og fengið 5 líkustu leikirnar í gagnagrunninum. (Sjá NFR-03)
 FR-02: Notandinn getur smellið á meðmælin til að skoða screenshots, description og rating.
-FR-03: Notandi skrifir titillinn og kema upp líkustu titlarnir til þess að notandi þarf ekki að skrifa fullkomlega.
+FR-03: Notandi skrifir titillinn og koma upp líkustu titlarnir til þess að notandi þarf ekki að skrifa fullkomlega.
 FR-04: Notandi getur valið að fá fleiri tilmæli sem eru ekki eins lík og upprunalegi leikurinn.
 FR-05: Notandi getur búið til account og merkt við leikir sem hann hefur klárað.
 
@@ -30,7 +30,7 @@ NFR-01: Kerfi getur lesið og unnið með gögnunum í gagnagrunninum.
 NFR-02: Kerfi getur birt basic profile fyrir leik út frá gögnum í gagnagrunninum.
 NFR-03: Kerfi getur greint og reiknað líkustu leikirnar í gagnagrunninum út frá genre, developer, decade og rating.
 NFR-04: Kerfi getur geymt upplýsingar um notendur á öruggan hátt og síað tilmæli frá hvaða leiki notandi hefur klárað.
-NFR-05: x
+NFR-05: Kerfi hefur gagnagrunn sem geymir upplýsingar um leikirnar.
 
 ## User stories
 US-01: Sem Leikjaspilari vil ég fá tilmæli um góða leiki svo að ég þurfi ekki að leita sjálfur.
@@ -41,3 +41,23 @@ US-04: Sem Leikjaspilari vil ég getað búið til account og skráð leiki sem 
 ## Open questions
 
 Hvernig á að vega gögnin til þess að finna líka leikir.
+
+
+## Traceability
+| User story | Issues |
+|------------|--------|
+| US-01      | #3, #4 |
+| US-02      | #6     |
+| US-03      | #4     |
+| US-04      | #5     |
+
+
+
+
+## Review notes
+Tillaga sem við samþykktum:
+...
+Tillaga sem við höfnuðum:
+...
+Af hverju:
+...
